@@ -1,5 +1,6 @@
 # CypherTripleDesEncrypt
 Swift Class to triple DES Encrypt using  keyed-hash message authentication code (HMAC) 
+Links: https://gist.github.com/jernejstrasner/1d5fa5e2fabda2e729d1
 
 #How To Use:
     import CryptoSwift
