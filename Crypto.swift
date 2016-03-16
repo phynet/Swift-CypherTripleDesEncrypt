@@ -1,7 +1,5 @@
 //
 //  Crypto.swift
-//  SimyoAdaptation
-//
 //  Created by Sofia Swidarowicz on 25/10/15.
 //  Copyright © 2015 Sofia Swidarowicz. All rights reserved.
 //
